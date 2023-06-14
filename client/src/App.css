@@ -1,0 +1,9 @@
+*{
+    font-family: 'Poppins','Montserrat','Baloo Bhai 2';
+}
+
+.centeringdiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
